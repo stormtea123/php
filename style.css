@@ -1,0 +1,9 @@
+html { color:#000; background:#fff }
+body, button, input, select, textarea { font:14px/1.5 tahoma, 'helvetica neue',tahoma,'hiragino sans gb',stheiti,'wenquanyi micro hei',\5FAE\8F6F\96C5\9ED1,\5B8B\4F53,sans-serif; }
+ol, ul { list-style:none }
+a { text-decoration:underline }
+img { border: none; vertical-align:top; }
+table { border-collapse: collapse; border-spacing: 0; }
+table { width:368px; }
+td { border:solid 1px #bbb; padding:5px 5px; }
+p b { color:red; }
